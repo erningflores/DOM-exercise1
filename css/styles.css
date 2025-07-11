@@ -1,0 +1,25 @@
+div.display{
+    background-color: blue;
+}
+.display{
+    color: white;
+}
+#container > .display{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+}
+div#container > .display{
+    margin: 15px;
+    padding: 5px;
+}
+
+#btn6{
+    margin: 10px;
+    font-size: 300%;
+    padding: 30px;
+}
+
+div.output{
+    margin: 0.5rem 0;
+}
